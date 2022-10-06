@@ -1,0 +1,71 @@
+#casada {
+	width: 100%;
+    height: 277px;
+}
+
+.principal {
+	background: #FF0000;
+	padding: 30px;
+}
+
+p { 
+	text-align: center;
+	color: white;
+}
+
+#origem {
+	font-size: 30px;
+}
+
+#missao {
+	font-size: 40px;
+}
+
+#ttl {
+	font-size: 30px;
+	margin:7px;
+}
+
+h1 { 
+	text-align: center;
+ }
+
+h2 {
+	font-size: 25px;
+}
+
+em strong {
+	color: purple;
+}
+
+h2 {
+	text-align: center;
+}
+
+.itens {
+	font-style: italic;
+	font-size: 40px;
+}
+
+.beneficios {
+	background: #FFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 10%;
+}
+
+.lixo {
+	width: 30%;
+}
+
+#botao {
+	height: 100px;
+	width: 100%;
+	color: violet;
+	font-size: 50px;
+}
